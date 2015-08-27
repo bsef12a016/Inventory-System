@@ -1,0 +1,9 @@
+D:\Work Drive\Biznovative\Inventory System\GUI_Test_6\GUI_Test_6\bin\Debug\GUI_Test_6.exe
+D:\Work Drive\Biznovative\Inventory System\GUI_Test_6\GUI_Test_6\bin\Debug\GUI_Test_6.pdb
+D:\Work Drive\Biznovative\Inventory System\GUI_Test_6\GUI_Test_6\obj\Debug\GUI_Test_6.csprojResolveAssemblyReference.cache
+D:\Work Drive\Biznovative\Inventory System\GUI_Test_6\GUI_Test_6\obj\Debug\GUI_Test_6.Form1.resources
+D:\Work Drive\Biznovative\Inventory System\GUI_Test_6\GUI_Test_6\obj\Debug\GUI_Test_6.Properties.Resources.resources
+D:\Work Drive\Biznovative\Inventory System\GUI_Test_6\GUI_Test_6\obj\Debug\GUI_Test_6.csproj.GenerateResource.Cache
+D:\Work Drive\Biznovative\Inventory System\GUI_Test_6\GUI_Test_6\obj\Debug\GUI_Test_6.exe.licenses
+D:\Work Drive\Biznovative\Inventory System\GUI_Test_6\GUI_Test_6\obj\Debug\GUI_Test_6.exe
+D:\Work Drive\Biznovative\Inventory System\GUI_Test_6\GUI_Test_6\obj\Debug\GUI_Test_6.pdb

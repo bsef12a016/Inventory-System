@@ -1,0 +1,9 @@
+D:\Work Drive\Biznovative\Inventory System\Testing\Testing\bin\Debug\Testing.exe
+D:\Work Drive\Biznovative\Inventory System\Testing\Testing\bin\Debug\Testing.pdb
+D:\Work Drive\Biznovative\Inventory System\Testing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+D:\Work Drive\Biznovative\Inventory System\Testing\Testing\obj\Debug\Testing.Form1.resources
+D:\Work Drive\Biznovative\Inventory System\Testing\Testing\obj\Debug\Testing.Properties.Resources.resources
+D:\Work Drive\Biznovative\Inventory System\Testing\Testing\obj\Debug\Testing.csproj.GenerateResource.Cache
+D:\Work Drive\Biznovative\Inventory System\Testing\Testing\obj\Debug\Testing.exe.licenses
+D:\Work Drive\Biznovative\Inventory System\Testing\Testing\obj\Debug\Testing.exe
+D:\Work Drive\Biznovative\Inventory System\Testing\Testing\obj\Debug\Testing.pdb

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_Test_4", "GUI_Test_4\GUI_Test_4.csproj", "{B82EA4E9-B51D-4880-85F0-809592C00B42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B82EA4E9-B51D-4880-85F0-809592C00B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82EA4E9-B51D-4880-85F0-809592C00B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82EA4E9-B51D-4880-85F0-809592C00B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82EA4E9-B51D-4880-85F0-809592C00B42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

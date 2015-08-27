@@ -1,0 +1,11 @@
+D:\Work Drive\Biznovative\Inventory System\GUI_Test3\GUI_Test3\bin\Debug\GUI_Test3.exe
+D:\Work Drive\Biznovative\Inventory System\GUI_Test3\GUI_Test3\bin\Debug\GUI_Test3.pdb
+D:\Work Drive\Biznovative\Inventory System\GUI_Test3\GUI_Test3\obj\Debug\GUI_Test3.Form1.resources
+D:\Work Drive\Biznovative\Inventory System\GUI_Test3\GUI_Test3\obj\Debug\GUI_Test3.Properties.Resources.resources
+D:\Work Drive\Biznovative\Inventory System\GUI_Test3\GUI_Test3\obj\Debug\GUI_Test3.csproj.GenerateResource.Cache
+D:\Work Drive\Biznovative\Inventory System\GUI_Test3\GUI_Test3\obj\Debug\GUI_Test3.exe
+D:\Work Drive\Biznovative\Inventory System\GUI_Test3\GUI_Test3\obj\Debug\GUI_Test3.pdb
+D:\Work Drive\Biznovative\Inventory System\GUI_Test3\GUI_Test3\obj\Debug\GUI_Test3.exe.licenses
+D:\Work Drive\Biznovative\Inventory System\GUI_Test3\GUI_Test3\obj\Debug\GUI_Test3.csprojResolveAssemblyReference.cache
+D:\Work Drive\Biznovative\Inventory System\GUI_Test3\GUI_Test3\obj\Debug\GUI_Test3.PrintRibbonControllerResources.resources
+D:\Work Drive\Biznovative\Inventory System\GUI_Test3\GUI_Test3\obj\Debug\GUI_Test3.XRDesignRibbonControllerResources.resources

@@ -1,0 +1,9 @@
+D:\Work Drive\Biznovative\Inventory System\GUI_Testing\GUI_Testing\bin\Debug\GUI_Testing.exe
+D:\Work Drive\Biznovative\Inventory System\GUI_Testing\GUI_Testing\bin\Debug\GUI_Testing.pdb
+D:\Work Drive\Biznovative\Inventory System\GUI_Testing\GUI_Testing\obj\Debug\GUI_Testing.csprojResolveAssemblyReference.cache
+D:\Work Drive\Biznovative\Inventory System\GUI_Testing\GUI_Testing\obj\Debug\GUI_Testing.Form1.resources
+D:\Work Drive\Biznovative\Inventory System\GUI_Testing\GUI_Testing\obj\Debug\GUI_Testing.Properties.Resources.resources
+D:\Work Drive\Biznovative\Inventory System\GUI_Testing\GUI_Testing\obj\Debug\GUI_Testing.csproj.GenerateResource.Cache
+D:\Work Drive\Biznovative\Inventory System\GUI_Testing\GUI_Testing\obj\Debug\GUI_Testing.exe.licenses
+D:\Work Drive\Biznovative\Inventory System\GUI_Testing\GUI_Testing\obj\Debug\GUI_Testing.exe
+D:\Work Drive\Biznovative\Inventory System\GUI_Testing\GUI_Testing\obj\Debug\GUI_Testing.pdb
